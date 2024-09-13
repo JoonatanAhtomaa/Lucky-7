@@ -16,8 +16,8 @@ public class App {
         int raha= 10;
 
         raha = Integer.parseInt(in.nextLine());
-        
-        if(tätä)
+
+        // Nyt toimii!
 
         do {
             System.out.println("Arvotaan numerot");
