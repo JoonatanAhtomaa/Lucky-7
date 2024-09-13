@@ -17,7 +17,7 @@ public class App {
 
         raha = Integer.parseInt(in.nextLine());
         
-    
+        if(testataan)
 
         do {
             System.out.println("Arvotaan numerot");
